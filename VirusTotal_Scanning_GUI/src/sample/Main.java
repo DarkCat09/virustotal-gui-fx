@@ -18,10 +18,10 @@ public class Main extends Application {
 
 
     public static void main(String[] args) {
-        System.out.println();
-        System.out.println("--------------VirusTotal File Scanning GUI---------------");
-        System.out.println("---v.1.0 by Chechkenev Andrew (DarkCat09/CodePicker13)---");
-        System.out.println();
+        //System.out.println();
+        //System.out.println("--- VirusTotal File Scanning GUI ---");
+        //System.out.println("-------- v.1.0 by DarkCat09 --------");
+        //System.out.println();
         launch(args);
     }
 }
